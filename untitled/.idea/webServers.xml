@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="98e2e79f-b3ba-4fad-9aff-ec178968d15f" name="peth浏览器">
+        <fileTransfer accessType="SFTP" host="47.243.112.197" port="22" sshConfigId="e0d4ccd2-d37b-4359-af8d-b575856ca1e0" sshConfig="root@47.243.112.197:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
